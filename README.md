@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name's Ignacio Montes Álvarez</h1>
-<h3 align="center">I'm a Computer Software Engineer graduated at University of Oviedo</h3>
+<h3 align="center">I'm a Computer Science - Software Engineer graduated at University of Oviedo</h3>
 
-- 🌱 I’m currently learning **MSc in Artificial Intelligence at Utrecht University**
+- 🌱 I’m currently learning **M.Sc. in Artificial Intelligence at Utrecht University**
 
 - 📫 How to reach me **nachonava98@gmail.com**
 
